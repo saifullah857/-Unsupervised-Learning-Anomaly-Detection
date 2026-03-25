@@ -163,8 +163,8 @@ A thyroid-related medical dataset used for anomaly detection experiments.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/unsupervised-ml.git
-cd unsupervised-ml
+git clone https://github.com/saifullah857/-Unsupervised-Learning-Anomaly-Detection.git
+cd UNSUPERVIZED
 ```
 
 ### 2. Create a Virtual Environment (Recommended)
@@ -257,7 +257,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👤 Author
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/saifullah857)
 
 > *"The goal is to turn data into information, and information into insight."* — Carly Fiorina
 
